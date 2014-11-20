@@ -1,7 +1,7 @@
 #--------------------------------------------------------
 # Name : estimate_growth.py
 #
-# Author : Iliass Tiendrebeogo, 2014
+# Author : Iliass Tiendrebeogo, Nov 2014
 #
 # Desc : function for estimating growth in simulating model
 #       
