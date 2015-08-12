@@ -9,4 +9,4 @@ kid. However,if you get a girl you can continue to have kids untill you got a so
 
 RUN
 
-python 
+python estimate_growth.py
